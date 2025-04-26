@@ -132,6 +132,6 @@ DateTime,Count
 ---
 
 ## Acknowledgments
-- Ultralytics YOLO for the object detection model.
-- OpenCV for video processing.
-- CVZone for additional computer vision utilities.
+- [Ultralytics YOLO](https://github.com/ultralytics/yolov5) for the object detection model.
+- [OpenCV](https://opencv.org/) for video processing.
+- [CVZone](https://github.com/cvzone/cvzone) for additional computer vision utilities.
