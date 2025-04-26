@@ -1,0 +1,18 @@
+# OpenCV for computer vision tasks
+opencv-python==4.5.5.64
+
+# Pandas for data manipulation and analysis
+pandas==1.3.5
+
+# Ultralytics for YOLO model usage
+ultralytics==8.0.20
+
+# CVZone for additional computer vision utilities
+cvzone==1.5.6
+
+# Torch and torchvision for YOLO model dependencies
+torch==1.13.1
+torchvision==0.14.1
+
+# Numpy for numerical operations (used internally by OpenCV and Pandas)
+numpy==1.21.6
